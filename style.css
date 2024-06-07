@@ -10,6 +10,9 @@ h1{
 }
 h2{
     font-size:1.5rem;
-    background-color: purple;
+    background-color: brown;
     color: white;
+}
+body{
+	background-image: url(bg.png);
 }
